@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmAbrirMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmAsignarMateriaCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscarAula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscarCarrera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscarEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscarMatCarr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscarMatAbierta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscarMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBuscarProfesor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBusMatAbiMatri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHabilitarPeriodoMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMantenimientoAulas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMantenimientoCarreras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMantenimientoEstudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMantenimientoProfesores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMantenimientoMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMatricular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmVerHorarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

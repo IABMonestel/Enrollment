@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Template.Master.cs" Inherits="InterfazWeb.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Matricula</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+
+    <style>
+        #footer {
+            position: fixed;
+            padding: 10px 10px 0px 10px;
+            bottom: 0;
+            width: 100%;
+            /* Height of the footer*/
+            height: 70px;
+        }
+    </style>
+
+</head>
+<body>
+    <nav>
+          <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link" href="Default.aspx">Inicio</a>
+            </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false">Archivo</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="frmHabilitarMatricula.aspx">Habilitar Matrícula</a></li>
+                <li><hr class="dropdown-divider"></li>              
+              <li><a class="dropdown-item" href="frmAbrirMaterias.aspx">Abrir Materias</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="frmMatricular.aspx">Matricular</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="frmConsultarMatricula.aspx">Consultar Matricula</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="frmFinalizarMateria.aspx">Finalizar Cursos</a></li>
+            </ul>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false">Mantenimientos</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="frmListadoAulas.aspx">Aulas</a></li>
+                <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="frmListadoEstudiantes.aspx">Estudiantes</a></li>
+              <li><hr class="dropdown-divider"></li>
+              <li><a class="dropdown-item" href="frmListadoMaterias.aspx">Materias</a></li>
+                <li><hr class="dropdown-divider"></li>
+               <li><a class="dropdown-item" href="frmListadoMateriasCarreras.aspx">Materias Carreras</a></li>
+            </ul>
+          </li>
+        </ul>
+    </nav>
+
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <footer id="footer" class="footer text-center mt-auto py-3 bg-light">
+
+        INA Derechos Reservados
+    </footer>
+</body>
+</html>

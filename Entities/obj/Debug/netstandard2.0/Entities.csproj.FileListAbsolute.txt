@@ -1,0 +1,67 @@
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.dll
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.pdb
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.dll
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.pdb
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.dll
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\Entities\bin\Debug\netstandard2.0\Entities.pdb
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.dll
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.pdb
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache

@@ -1,0 +1,95 @@
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.exe
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.deps.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.dev.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.csproj.AssemblyReference.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmAbrirMateria.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmAsignarMateriaCarrera.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarAula.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarCarrera.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarEstudiante.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarMatAbierta.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarMatCarr.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarMaterias.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarProfesor.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBusMatAbiMatri.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmHabilitarPeriodoMatricula.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoAulas.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoCarreras.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoEstudiantes.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoMaterias.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoProfesores.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmMatricular.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmPrincipal.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmVerHorarios.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.Properties.Resources.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.csproj.GenerateResource.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfoInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfo.cs
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.genruntimeconfig.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.csproj.AssemblyReference.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmAbrirMateria.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmAsignarMateriaCarrera.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarAula.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarCarrera.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarEstudiante.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarMatAbierta.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarMatCarr.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarMaterias.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBuscarProfesor.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmBusMatAbiMatri.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmHabilitarPeriodoMatricula.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoAulas.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoCarreras.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoEstudiantes.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoMaterias.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmMantenimientoProfesores.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmMatricular.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\ProyectoPOO.frmPrincipal.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.frmVerHorarios.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.Properties.Resources.resources
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.csproj.GenerateResource.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfoInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfo.cs
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.exe
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.deps.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.dev.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\Interfaz.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\BusinessLogic.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\BusinessLogic.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.csproj.CopyComplete
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\ProyectoPOO\obj\Debug\netcoreapp3.1\Interfaz.genruntimeconfig.cache

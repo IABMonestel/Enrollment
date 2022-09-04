@@ -1,0 +1,103 @@
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\IrvinAlberto\source\repos\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\a\Downloads\Irvin Benavides\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\a\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+b:\Users\Progra\Downloads\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\a\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+b:\Users\Progra\Downloads\I\I\ProyectoPOO - Copy\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb

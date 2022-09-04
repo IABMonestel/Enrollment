@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae58f0e7-df74-4d18-a72e-12303a97078c": {
+      "ProjectGuid": "ae58f0e7-df74-4d18-a72e-12303a97078c",
+      "DisplayName": "InterfazWeb",
+      "ColorIndex": 0
+    },
+    "b058f36f-18a5-4417-aca4-9456a0da23d7": {
+      "ProjectGuid": "b058f36f-18a5-4417-aca4-9456a0da23d7",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "5e6fad97-3fad-4242-a810-cf191ef2b13f": {
+      "ProjectGuid": "5e6fad97-3fad-4242-a810-cf191ef2b13f",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "d4ec523a-78b2-4787-98cf-a188e5d454c5": {
+      "ProjectGuid": "d4ec523a-78b2-4787-98cf-a188e5d454c5",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
